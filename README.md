@@ -26,7 +26,7 @@ Description:
 4. Based on the university's Visa approval rate, students will be able to make a choice.
 
 
-![physical](https://user-images.githubusercontent.com/114035799/201503242-33e20985-f1af-44a7-9955-3a066b1699e2.png)
-
-
 ![WhatsApp Image 2022-11-12 at 5 57 19 PM](https://user-images.githubusercontent.com/114035799/201503298-87ce9991-d72f-4b77-990a-735d006cfa54.jpeg)
+
+
+![physical](https://user-images.githubusercontent.com/114035799/201503341-8e183d77-db67-47e3-af42-a4c833b3f48f.png)
