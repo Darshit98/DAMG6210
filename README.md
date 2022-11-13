@@ -1,3 +1,4 @@
+![phy](https://user-images.githubusercontent.com/114035799/201503091-e6b5a84d-2f8f-4ab8-8439-bc4b227bf596.png)
 ![phy](https://user-images.githubusercontent.com/114035799/201503081-571d833c-b7f7-4289-8f12-30d505ea8108.png)
 # DAMG6210
 
@@ -23,3 +24,4 @@ Description:
 2. The database will recommend the appropriate university and the course the student can take based on the profile scan.
 3. The students can filter the program's start (Spring/Fall/Summer), and the database will compare their profiles to suggest them.
 4. Based on the university's Visa approval rate, students will be able to make a choice.
+![phy](https://user-images.githubusercontent.com/114035799/201503102-5f3e8393-bf04-4a89-ab9e-4a87ef68b6ae.png)
