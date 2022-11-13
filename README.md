@@ -24,5 +24,9 @@ Description:
 2. The database will recommend the appropriate university and the course the student can take based on the profile scan.
 3. The students can filter the program's start (Spring/Fall/Summer), and the database will compare their profiles to suggest them.
 4. Based on the university's Visa approval rate, students will be able to make a choice.
-![phy](https://user-images.githubusercontent.com/114035799/201503102-5f3e8393-bf04-4a89-ab9e-4a87ef68b6ae.png)
+
+
 ![physical](https://user-images.githubusercontent.com/114035799/201503242-33e20985-f1af-44a7-9955-3a066b1699e2.png)
+
+
+![WhatsApp Image 2022-11-12 at 5 57 19 PM](https://user-images.githubusercontent.com/114035799/201503298-87ce9991-d72f-4b77-990a-735d006cfa54.jpeg)
