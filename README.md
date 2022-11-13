@@ -25,3 +25,4 @@ Description:
 3. The students can filter the program's start (Spring/Fall/Summer), and the database will compare their profiles to suggest them.
 4. Based on the university's Visa approval rate, students will be able to make a choice.
 ![phy](https://user-images.githubusercontent.com/114035799/201503102-5f3e8393-bf04-4a89-ab9e-4a87ef68b6ae.png)
+![physical](https://user-images.githubusercontent.com/114035799/201503242-33e20985-f1af-44a7-9955-3a066b1699e2.png)
